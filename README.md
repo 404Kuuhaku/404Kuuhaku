@@ -15,6 +15,12 @@
 <h3 align="center">
 	I am capable of deploying applications to Vercel and Firebase hosting.
 </h3>
+<h3 align="center">
+	I am also well-versed in leveraging tools such as Git, Selenium, Postman and Docker to streamline development workflows.
+</h3>
+<h3 align="center">
+	Additionally, I have experience with Arduino and Linux (Raspberry Pi OS), enabling me to explore IoT projects and create versatile applications.
+</h3>
 <p align="left">
 	<img
 		src="https://komarev.com/ghpvc/?username=404kuuhaku&label=Profile%20views&color=0e75b6&style=flat"
