@@ -9,7 +9,7 @@
 	I am proficient managing data with PostgreSQL MongoDB and Firebase.
 </h3>
 <h3 align="center">
-	I am skilled in using ORMs like Mongoose and Prisma for seamless database
+	I am skilled in using ORMs like Mongoose, Prisma and GORM for seamless database
 	interactions.
 </h3>
 <h3 align="center">
@@ -141,6 +141,14 @@
 			height="40"
 		/>
 	</a>
+        <a href="https://docs.gofiber.io/" target="_blank" rel="noreferrer">
+		<img
+			src="https://avatars.githubusercontent.com/u/59947262"
+			alt="fiber"
+			width="40"
+			height="40"
+		/>
+	</a>
 	<a href="https://graphql.org" target="_blank" rel="noreferrer">
 		<img
 			src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
@@ -165,6 +173,14 @@
 			height="40"
 		/>
 	</a>
+     <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+            alt="go"
+            width="40"
+            height="40"
+        />
+    </a> 
 	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -252,6 +268,14 @@
 		<img
 			src="https://avatars.githubusercontent.com/u/17219288"
 			alt="prisma"
+			width="40"
+			height="40"
+		/>
+	</a>
+        <a href="https://gorm.io/index.html" target="_blank" rel="noreferrer">
+		<img
+			src="https://avatars.githubusercontent.com/u/15127678"
+			alt="gorm"
 			width="40"
 			height="40"
 		/>
